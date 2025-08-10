@@ -68,29 +68,6 @@ Target applications include restoring damaged artworks, repairing scanned docume
 
 ---
 
-##  Repository Structure
-
-ImageRestoration/
-│
-├── notebooks/
-│ ├── data-prep-swin.ipynb # Dataset preparation for SwinIR
-│ ├── lama_inpainting.ipynb # LaMa inpainting pipeline (train & eval)
-│ ├── swin_ir_Div2k.ipynb # SwinIR training on DIV2K-like data
-│ ├── swin_ir_final.ipynb # Final fine-tuning and inference
-│ └── training_experiments_swin.ipynb
-│
-├── assets/ # Example input/output images used in README/report
-├── src/ # (optional) Python modules if extracted from notebooks
-├── requirements.txt # Python dependencies
-├── environment.yml # Conda environment (optional)
-├── Report.pdf # Full project report with results and methodology
-├── docs/
-│ └── Presentation.pdf # Project presentation slides
-├── LICENSE
-└── README.md
-
-
----
 
 ##  Installation
 
