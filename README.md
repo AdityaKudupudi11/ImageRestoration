@@ -149,6 +149,6 @@ This project was completed as part of the course ComputerVisison(Ai3603) under t
 
 For questions or collaboration, feel free to reach out on GitHub:  
 [github.com/Kushwanthchitipotu](https://github.com/Kushwanthchitipotu) /
-[github.com/Aditya_Kudupudi](https://github.com/Aditya11013)
+[github.com/Aditya_Kudupudi](https://github.com/AdityaKudupudi11)
 
 
