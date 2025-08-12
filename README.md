@@ -1,7 +1,7 @@
 # Image Restoration — Super-Resolution & Inpainting
 **Group Project — IIT Hyderabad**
 
- [Full Project Report](docs/Report.pdf) |  [Presentation Slides](docs/Presentation.pdf)
+ [Full Project Report](docs/Report.pdf) |  [Presentation Slides](docs/ImageRestoration.pdf)
 
 
 ## Overview
