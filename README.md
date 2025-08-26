@@ -11,7 +11,7 @@ This repository implements a deep-learning pipeline for **image restoration**, c
   ![SwinIR](assets/swinir.png)
 - **LaMa** — Large-Mask **Inpainting** with Fourier Convolutions  
   ![LaMa](assets/lama.png) 
-  ![Fast Fourier Convolution]("assets/Fast Fourier Convolution.png")
+  ![Fast Fourier Convolution](assets/ffc.png)
 - **Custom dataset preparation** and **mask generation** utilities
 
 Target applications include restoring damaged artworks, repairing scanned documents, and filling missing or corrupted image regions.
