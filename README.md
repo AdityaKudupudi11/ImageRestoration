@@ -8,7 +8,10 @@
 This repository implements a deep-learning pipeline for **image restoration**, combining:
 
 - **SwinIR** — Transformer-based **Super-Resolution**  
+  ![SwinIR](assets/swinir.png)
 - **LaMa** — Large-Mask **Inpainting** with Fourier Convolutions  
+  ![LaMa](assets/lama.png) 
+  ![Fast Fourier Convolution]("assets/Fast Fourier Convolution.png")
 - **Custom dataset preparation** and **mask generation** utilities
 
 Target applications include restoring damaged artworks, repairing scanned documents, and filling missing or corrupted image regions.
@@ -39,12 +42,16 @@ Target applications include restoring damaged artworks, repairing scanned docume
 
 ---
 
-##  Sample Results
 
-| Task | Input | Output |
-|------|-------|--------|
-| Super-Resolution | ![low-res sample](assets/lowres.png) | ![high-res sample](assets/highres.png) |
-| Inpainting | ![masked sample](assets/masked.png) | ![inpainted sample](assets/inpainted.png) |
+## Sample Results
+
+| Task | Result |
+|------|--------|
+| Super-Resolution | ![super-resolution result](assets/sr_combined.png) |
+| Inpainting (narrow)| ![inpainting result](assets/inpainting_combined_n3.png) |
+| Inpainting (deepfillv2)| ![inpainting result](assets/inpainting_combined_d1.png) |
+
+
 
 > More visual results and comparisons available in the [Project Report](Report.pdf).
 
@@ -149,6 +156,7 @@ This project was completed as part of the course ComputerVisison(Ai3603) under t
 
 For questions or collaboration, feel free to reach out on GitHub:  
 [github.com/Kushwanthchitipotu](https://github.com/Kushwanthchitipotu) /
-[github.com/Aditya_Kudupudi](https://github.com/AdityaKudupudi11)
+[github.com/Aditya_Kudupudi](https://github.com/AdityaKudupudi11) /
+[github.com/Manpurwar_Ganesh](https://github.com/ganesh1729m) /
 
 
