@@ -149,7 +149,6 @@ This project was completed as part of the course ComputerVisison(Ai3603) under t
 - **Tera Keshavardhan Reddy**   
 - **K.D.V.S. Aditya**  
 - **Ch. Kushwanth** 
-
 ---
 
 ## Contact
